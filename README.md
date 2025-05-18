@@ -7,7 +7,7 @@
 
 * ### 🌐 AFSIFormer Block
 
-  A novel progressive learning block that fuses frequency-spatial interaction with boundary-aware directional attention, enabling richer and more robust feature extraction.
+  A novel progressive learning module integrates frequency–space interactions with an attention mechanism to enable richer and more robust feature extraction.
 
 * ### 🔄 Block-Level Residual Coupling
 
