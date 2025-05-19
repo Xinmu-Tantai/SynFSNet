@@ -4,10 +4,13 @@
 ---
 
 ## 🔑 Key Features
-
+* ### 🧠 AFSIAttention
+   
+  Fine-grained interaction between frequency and spatial features via head-specific frequency projection and adaptive weighting.
+  
 * ### 🌐 AFSIFormer Block
 
-  A novel progressive learning module integrates frequency–space interactions with an attention mechanism to enable richer and more robust feature extraction.
+  Progressive learning with boundary-aware directional and local window attention for global-local feature synergy.
 
 * ### 🔄 Block-Level Residual Coupling
 
