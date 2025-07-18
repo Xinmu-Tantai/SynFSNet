@@ -1,4 +1,4 @@
-# AFSIFormer: Adaptive Frequency-Spatial Interactive Attention Mechanism for Aerial Image Semantic Segmentation
+# AFSIFormer: Adaptive Frequency-Spatial Interaction Attention Mechanism for Aerial Image Semantic Segmentation
 
 **SynFSNet** is an efficient semantic segmentation network designed specifically for aerial imagery. 
 ---
