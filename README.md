@@ -26,10 +26,6 @@
 
 ---
 
-## 🚀 Status
-
-The **PyTorch implementation is currently being prepared and will be released soon. Stay tuned!**
-
 
 
 
